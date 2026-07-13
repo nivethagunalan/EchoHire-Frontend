@@ -1,3 +1,4 @@
+
 function MessageBubble({ sender, text }) {
   const isAI = sender === 'ai';
 
