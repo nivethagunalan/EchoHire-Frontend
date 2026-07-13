@@ -2,7 +2,7 @@ import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
 import { useEffect, useState } from 'react';
 import Home from './pages/Home';
 import Login from './pages/Login';
-import Signup from './pages/Signup';
+import Signup from "./pages/Signup.jsx"
 import Landing from './pages/Landing';
 import { Toaster } from 'react-hot-toast';
 
